@@ -6,7 +6,7 @@ body {
    width: 5000px;
    height: 230px;
    margin: -10px;
-   background-image: url(./Imagens/fundo.png);
+   background-image: url(../Imagens/fundo.png);
 }
 .img1 {
    position: absolute;
